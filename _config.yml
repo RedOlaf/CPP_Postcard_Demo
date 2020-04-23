@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://evanwill.github.io
+url: https://redolaf.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /cb-gh-postcards
+baseurl: /CPP_Postcard_Demo
 # location of code, the full url to your github repository
-source-code: https://github.com/evanwill/cb-gh-postcards
+source-code: https://github.com/RedOlaf/cb-gh-compound
 
 ##########
 # SITE SETTINGS
