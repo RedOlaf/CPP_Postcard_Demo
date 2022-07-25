@@ -18,7 +18,7 @@ source-code: https://github.com/RedOlaf/cb-gh-compound
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CPP Postcards Collections Demmo
+title: CPP Postcards Collections Demo
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Test Site of Postcard CollectionBuilder
 # description appears in meta tags and other locations
